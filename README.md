@@ -27,6 +27,31 @@ A modern e-commerce web application built using Vue 3 with Pinia for state manag
 - **Axios**: For performing HTTP requests to fetch product data from an external API.
 - **Vuetify**: A comprehensive UI library built on top of Material Design principles.
 - **Swiper**: A powerful tool for building responsive and interactive carousels.
+
+
+### App Images
+
+Ella-Commerce
+
+
+## ![Ella-Commerce](https://github.com/user-attachments/assets/115e142f-6c66-4c89-8597-2d6a9949a203)
+
+---
+## ![Ella-Commerce](https://github.com/user-attachments/assets/d82f2613-b612-4ebc-ada8-b4dfa582674a)
+
+
+## ![Ella-Commerce](https://github.com/user-attachments/assets/679d4f12-f4b6-4248-9da1-e8ab16726fb5)
+
+
+## ![Ella-Commerce](https://github.com/user-attachments/assets/8fbfa7cf-7414-46f8-8f7d-302dff5ca153)
+
+
+
+
+
+
+
+
 ## Installation
 
 To get started, clone the repository and install the dependencies:
