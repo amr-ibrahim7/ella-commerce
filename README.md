@@ -9,8 +9,6 @@ A modern e-commerce web application built using Vue 3 with Pinia for state manag
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
 6. [State Management (Pinia)](#state-management-pinia)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Features
 - **Product Categories**: Users can browse products by various categories such as **smartphones**, **groceries**, **fragrances**, **beauty**, and more.
@@ -70,7 +68,6 @@ Categories such as smartphones, groceries, beauty, and more.
 Flash deals, new products, and product details.
 API integration using Axios to retrieve product data from external sources.
 cartStore: Manages the shopping cart functionality, with features such as:
-
 Adding products to the cart.
 Deleting products from the cart.
 Persisting the cart using localStorage so that items remain saved across sessions.
